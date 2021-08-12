@@ -1,0 +1,15 @@
+{
+  "name": "kaiserbot",
+  "version": "1.0.0",
+  "description": "Discord Bot. Woof.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Reid",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "typescript": "^4.3.5"
+  }
+}
